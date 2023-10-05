@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "xeno:palm_tree_leaves",
+    "xeno:cherry_blossom_leaves",
+    "xeno:red_autumnal_leaves",
+    "xeno:orange_autumnal_leaves",
+    "xeno:yellow_autumnal_leaves",
+    "xeno:brown_autumnal_leaves"
+  ]
+}
