@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "xeno:block/orange_autumnal_leaves"
+  }
+}

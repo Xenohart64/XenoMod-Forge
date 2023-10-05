@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "xeno:block/ruby_block"
+    }
+  }
+}

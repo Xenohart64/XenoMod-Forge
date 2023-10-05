@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "xeno:saphir_block"
+    ]
+  },
+  "criteria": {
+    "saphir": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "xeno:saphir"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "xeno:saphir_block"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "saphir",
+      "has_the_recipe"
+    ]
+  ]
+}

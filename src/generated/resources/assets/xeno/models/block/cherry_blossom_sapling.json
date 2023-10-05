@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "xeno:item/cherry_blossom_sapling"
+  }
+}
